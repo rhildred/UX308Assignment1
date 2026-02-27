@@ -11,7 +11,7 @@ export function clearInput(){
 function welcoming() {
   let aReturn = [];
   currentState = reserving;
-  aReturn.push("Welcome to Tim Horton's.");
+  aReturn.push("Welcome to Rich Horton's.");
   aReturn.push("Would you like to reserve a rapid test kit?");
   return aReturn;
 }
